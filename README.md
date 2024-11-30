@@ -1,7 +1,4 @@
 # deep-learning-challenge
-# deep-learning-challenge
-
-This is the submitted assignment for Module 21 of the Data Analytics Boot Camp by Chris Burk. You can contact me at burk992 at gmail.
 
 ## Overview of the Analysis
 
